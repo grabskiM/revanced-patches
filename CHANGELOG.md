@@ -1,6 +1,5 @@
 # [2.168.0-dev.9](https://github.com/revanced/revanced-patches/compare/v2.168.0-dev.8...v2.168.0-dev.9) (2023-04-05)
 
-
 ### Features
 
 * **youtube/settings:** disable preference control if the feature is turned off.  show a dialog explaining side effects of some patches ([#1801](https://github.com/revanced/revanced-patches/issues/1801)) ([8f29bf3](https://github.com/revanced/revanced-patches/commit/8f29bf3a9228032bd5096a623a8cc2a60530c67f))
@@ -62,6 +61,7 @@
 ### Features
 
 * **id-austria:** bump compatibility to `2.6.0` ([#1827](https://github.com/revanced/revanced-patches/issues/1827)) ([563295e](https://github.com/revanced/revanced-patches/commit/563295e78b194a83908c2e1405ba4312def520af))
+
 
 # [2.167.0](https://github.com/revanced/revanced-patches/compare/v2.166.0...v2.167.0) (2023-03-29)
 
